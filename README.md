@@ -14,8 +14,9 @@
 
 Attributes
 ----------
-- Uniqueness and Creativity.
-- Willingness to Explore and Think Out of The Box.
+- Unique and Creative.
+- Willingn to Explore.
+- Out of the BOX thinker.
 - Ability to work independently and within group
 
 <!---
