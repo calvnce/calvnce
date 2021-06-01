@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Calvince Otieno
+- 👋 Hi, I’m Calvince
 - 👀 I’m interested in Software engineering related projects
 - 🌱 I’m currently learning and working on self-assigned projects
 - 💞️ I’m looking to collaborate on software related projects whether open source or commercial.
@@ -12,7 +12,7 @@
                   
                   Social Media: Twitter @sir_colly
 
-ATTRIBUTES
+Attributes
 ----------
 - Uniqueness and Creativity.
 - Willingness to Explore and Think Out of The Box.
