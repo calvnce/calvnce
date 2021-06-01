@@ -12,6 +12,12 @@
                   
                   Social Media: Twitter @sir_colly
 
+ATTRIBUTES
+----------
+- Uniqueness and Creativity.
+- Willingness to Explore and Think Out of The Box.
+- Ability to work independently and within group
+
 <!---
 calvnce/calvnce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
