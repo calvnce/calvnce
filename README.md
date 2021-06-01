@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @calvnce
+- 👋 Hi, I’m Calvince Otieno
 - 👀 I’m interested in Software engineering related projects
 - 🌱 I’m currently learning and working on self-assigned projects
 - 💞️ I’m looking to collaborate on software related projects whether opensource or commercial.
