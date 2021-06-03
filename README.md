@@ -11,6 +11,23 @@
                   
                   
                   Social Media: Twitter @sir_colly
+Stack
+--------
+- Java
+- Python
+- C++
+- SQL
+- JavaScript
+- Ruby
+- Node Js
+- HTML5 & CSS3
+- Frameworks:
+            
+            Spring and Springboot
+            React
+            Bootstrap
+            Rails
+            
 
 Attributes
 ----------
