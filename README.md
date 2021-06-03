@@ -32,7 +32,7 @@ Stack
 Attributes
 ----------
 - Unique and Creative.
-- Willingn to Explore.
+- Willing to Explore.
 - Out of the BOX thinker.
 - Ability to work independently and within group
 
