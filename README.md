@@ -10,7 +10,7 @@
                   Email: sir_kolly@yahoo.com; intels_arcade@outlook.com
                   
                   
-                  Social Media: Twitter @sir_colly
+                  Social Media: Twitter @sir_calvnce
 Stack
 --------
 - Java
@@ -35,6 +35,7 @@ Attributes
 - Willing to Explore.
 - Out of the BOX thinker.
 - Ability to work independently and within group
+- Active collaborator
 
 <!---
 calvnce/calvnce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
