@@ -16,7 +16,7 @@ Stack
 - Java
 - Python
 - C++
-- SQL
+- PSQL/SQL (ORACLE DB)
 - JavaScript
 - Ruby
 - Node Js
@@ -24,16 +24,15 @@ Stack
 - Frameworks:
             
             Spring and Springboot
-            React
+            Angular
             Bootstrap
-            Rails
+            Ruby on Rails
             
 
 Attributes
 ----------
 - Unique and Creative.
 - Willing to Explore.
-- Out of the BOX thinker.
 - Ability to work independently and within group
 - Active collaborator
 
