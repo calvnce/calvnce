@@ -18,15 +18,13 @@ Stack
 - C++
 - PSQL/SQL (ORACLE DB)
 - JavaScript
-- Ruby
-- Node Js
 - HTML5 & CSS3
 - Frameworks:
             
             Spring and Springboot
+            JavaEE
             Angular
             Bootstrap
-            Ruby on Rails
             
 
 Attributes
