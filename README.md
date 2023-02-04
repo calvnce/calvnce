@@ -43,4 +43,6 @@ With a mastery of languages like Java, C#, C++, JavaScript, and Python, I'm a fu
 - Email: calvncce@gmail.com
 - Twitter: @sir_calvince
 
-*I'm always open to discussing new opportunities and connecting with others in the tech community. Don't hesitate to get in touch!*
+*I'm always open to discussing new opportunities and connecting with others in the tech community.*
+
+**Don't hesitate to get in touch!**
