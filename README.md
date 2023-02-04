@@ -21,3 +21,11 @@ With a mastery of languages like Java, C#, C++, JavaScript, and Python, I'm a fu
 
 **Containerization**
 - Docker
+
+## Experience
+**Full-Stack Software Engineer at Avicenna**
+ - - Worked on developing and maintaining large-scale web applications using Java and JavaScript technologies.
+    Implemented new features and optimized existing ones to improve the performance and user experience of the applications.
+    Collaborated with cross-functional teams, including designers, product managers, and QA engineers, to deliver high-quality software solutions.
+    Utilized SQL databases, such as OracleDB and MariaDB, to store and manage data.
+    Contributed to the development of REST APIs and GraphQL endpoints to power the applications' backend.
