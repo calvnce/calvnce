@@ -4,24 +4,20 @@ With a mastery of languages like Java, C#, C++, JavaScript, and Python, I'm a fu
 ## Skills and Technologies
 
 **Programming Languages**
-
-    C#
-    C/C++
-    Java
-    JavaScript
-    Python
-
+- C#
+- C/C++
+- Java
+- JavaScript
+- Python
+    
 **Technologies**
-
-    Spring Boot
-    GraphQL
-    Kubernetes
+- Spring Boot
+- GraphQL
+- Kubernetes
 
 **Databases**
-
-    SQL: OracleDB, MariaDB, PostgreSQL
-    NoSQL: MongoDB
+- SQL: OracleDB, MariaDB, PostgreSQL
+- NoSQL: MongoDB
 
 **Containerization**
-
-    Docker
+- Docker
